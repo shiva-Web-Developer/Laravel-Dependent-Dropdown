@@ -1,0 +1,2 @@
+# Laravel-Dependent-Dropdown
+Dependent dropdown is a term commonly used for dropdowns or select-options that display data that depend on other dropdowns. The most common dependent dropdown example we encounter is when registering or filling out a form with country, state and city options. For example, when selecting country Indonesia, the data displayed in the dropdown or select-option state will display provincial data in Indonesia.
